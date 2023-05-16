@@ -1,0 +1,5 @@
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\PublishedDockerConsoleApp\DockerConsoleApp.exe
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\PublishedDockerConsoleApp\DockerConsoleApp.dll
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\PublishedDockerConsoleApp\DockerConsoleApp.deps.json
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\PublishedDockerConsoleApp\DockerConsoleApp.runtimeconfig.json
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\PublishedDockerConsoleApp\DockerConsoleApp.pdb

@@ -1,0 +1,15 @@
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\bin\Release\net6.0\DockerConsoleApp.exe
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\bin\Release\net6.0\DockerConsoleApp.deps.json
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\bin\Release\net6.0\DockerConsoleApp.runtimeconfig.json
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\bin\Release\net6.0\DockerConsoleApp.dll
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\bin\Release\net6.0\DockerConsoleApp.pdb
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\obj\Release\net6.0\DockerConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\obj\Release\net6.0\DockerConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\obj\Release\net6.0\DockerConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\obj\Release\net6.0\DockerConsoleApp.AssemblyInfo.cs
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\obj\Release\net6.0\DockerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\obj\Release\net6.0\DockerConsoleApp.dll
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\obj\Release\net6.0\refint\DockerConsoleApp.dll
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\obj\Release\net6.0\DockerConsoleApp.pdb
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\obj\Release\net6.0\DockerConsoleApp.genruntimeconfig.cache
+C:\Users\Casper\source\repos\DockerConsoleApp\DockerConsoleApp\obj\Release\net6.0\ref\DockerConsoleApp.dll

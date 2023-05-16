@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DockerConsoleApp/1.0.0": {
+        "runtime": {
+          "DockerConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DockerConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
